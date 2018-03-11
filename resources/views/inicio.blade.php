@@ -6,24 +6,24 @@
   padding: 40px 0;
 }
 .tabs .nav-tabs li a {
-    color: #2F6BA7;
-    border: 2px solid #2F6BA7;
+    color: black;
+    border: 2px solid black;
 }
 .tabs .nav-tabs li a:hover {
-  background: #4C6DC8;
+  background: black;
   color: #fff;
-  border: 2px solid #4C6DC8;
+  border: 2px solid black;
 }
 
 .tabs .nav-tabs li.active a {
   color: #fff;
-  background: #4C6DC8;
-  border: 2px solid #4C6DC8;
+  background: black;
+  border: 2px solid black;
 }
 .btn-style-one {
   color: #ffffff;
-  background: #4C6DC8;
-  border: 1px solid #4C6DC8;
+  background: black;
+  border: 1px solid black;
 }
 .gris
 {
@@ -60,7 +60,7 @@
                     <div class="content style text-center">
                         <h2 class="text-white text-bold mb-2">MIXES Y REMIXES</h2>
                         <p class="tag-text mb-5">Encuentra los mejores remixes y mixes por DjFrank</p>
-                        <a href="Galeria" class="btn btn-main btn-white">Galeria</a>
+                        <a href="mixes-remixes" class="btn btn-main btn-white">Mixes/Remixes</a>
                     </div>
                     <!-- Slide Content End -->
                 </div>
@@ -76,7 +76,7 @@
                     <div class="content style text-right">
                         <h2 class="text-white">Diseño web</h2>
                         <p class="tag-text">HTML5, css, Javascript, php, etc.</p>
-                        <a href="Galeria" class="btn btn-main btn-white">Galeria</a>
+                        <a href="Materiales" class="btn btn-main btn-white">Ver</a>
                     </div>
                     <!-- Slide Content End-->
                 </div>
