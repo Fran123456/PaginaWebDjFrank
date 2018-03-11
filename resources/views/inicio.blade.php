@@ -58,9 +58,8 @@
                 <div class="col-12">
                     <!-- Slide Content Start -->
                     <div class="content style text-center">
-                        <h2 class="text-white text-bold mb-2">Diseño grafico</h2>
-                        <p class="tag-text mb-5">Encuentra los mejores diseños realizados por nuestros
-                        graphic Designers</p>
+                        <h2 class="text-white text-bold mb-2">MIXES Y REMIXES</h2>
+                        <p class="tag-text mb-5">Encuentra los mejores remixes y mixes por DjFrank</p>
                         <a href="Galeria" class="btn btn-main btn-white">Galeria</a>
                     </div>
                     <!-- Slide Content End -->
