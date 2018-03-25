@@ -26,7 +26,9 @@
     <div class="card-header card-title"> <h1>{{$post->name}}</h1> </div>
     <div class="card-body">
     <!--  <h3>Categoria: <span class="badge badge-secondary"><a href="{{route('category', $post->category->slug)}}">{{$post->category->name}}</a> </span></h3> -->
-    <h3>Categoria: <span class="badge badge-secondary">{{$post->category->name}} </span></h3>
+     <div class="">
+    <h3>Categoria:   </h3>  <h4> {{$post->category->name}} </h4> 
+    </div>
       <br>
       <img class="card-img-bottom" src="{{$post->file}}" height="700" width="700" alt="Card image cap">
       <br>
