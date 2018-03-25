@@ -29,10 +29,10 @@
       <h3>Contactanos</h3>
       <hr>
       <address>
-      <strong>Telefono:</strong> (555)123-4567
+      <strong>Telefono:</strong> +530 76064602
       <br>
       <br>
-      <strong>Correo:</strong> creativedesign2018@gmail.com
+      <strong>Correo:</strong> navasfran98@gmail.com
       </address>
     </div>
 
