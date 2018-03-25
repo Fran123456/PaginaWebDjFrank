@@ -274,9 +274,9 @@
 <section class="service-section bg-gray section">
     <div class="container">
         <div class="section-title text-center">
-            <h3>DISEÑOS DESTACADOS
+            <h3>Mixes destacados
             </h3>
-            <p>Aquí te presentamos los diseños destacados realizados por los integrantes de creative design.</p>
+            <p>Aquí te presentamos los mixes mas escuchados</p>
         </div>
         <div class="row items-container clearfix">
           @foreach ( $posts as $post)
@@ -286,8 +286,9 @@
                             <img src="{{$post->file}}" alt="images" class="img-responsive">
                     </div>
                     <div class="image-content text-center">
-                            <h6>{{$post->name}}</h6>
-                        <p>{{$post->body}}</p>
+                          <strong>{{$post->name}}</strong>
+                            <br>
+                        <a target="_blank" href="{{$post->body}}" class="btn btn-success"> descargar</a>
                     </div>
                 </div>
             </div>
@@ -306,7 +307,7 @@
 										<h5 class="text-center">{{$value->name}}</h5>
 								</div>
 								<div class="panel-body text-center">
-										<p class="lead" style="font-size:30px"><strong>{{$value->precio}}</strong></p>
+										<p class="lead" style="font-size:30px"><strong>${{$value->precio}}</strong></p>
 								</div>
 								<ul class="list-group list-group-flush text-center">
 										<li class="list-group-item">
