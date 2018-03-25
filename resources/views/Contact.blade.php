@@ -13,7 +13,7 @@
 </style>
 
 <!--Page Title-->
-<section class="page-title text-center" style="background-image:url(images/background/3.jpg);">
+<section class="page-title text-center" style="background-image:url(images/background/fondocontacto.jpg);">
     <div class="container">
         <div class="title-text">
             <h1>Contactanos</h1>
@@ -29,7 +29,7 @@
       <h3>Contactanos</h3>
       <hr>
       <address>
-      <strong>Telefono:</strong> +530 76064602
+      <strong>Telefono:</strong> +503 76064602
       <br>
       <br>
       <strong>Correo:</strong> navasfran98@gmail.com
@@ -63,7 +63,7 @@
 				<div  class="col-md-4">
 						<div class="panel panel-info">
 								<div  class="panel-body text-center">
-										<img class="" src="img/redes/facebook.png" width="100" height="100" alt="">
+                    <a href="https://www.facebook.com/fran.navas.96"><img class="" src="img/redes/facebook.png" width="100" height="100" alt=""></a>
 								</div>
 								<ul class="list-group list-group-flush text-center">
 										<li class="list-group-item">
@@ -80,7 +80,7 @@
 								</div>
 								<ul class="list-group list-group-flush text-center">
 										<li class="list-group-item">
-                        creativedesign2018@gmail.com
+                        navasfran98@gmail.com
 										</li>
 								</ul>
 						</div>
@@ -90,7 +90,7 @@
         <div  class="col-md-4">
             <div class="panel panel-info">
                 <div  class="panel-body text-center">
-                    <img class="" src="img/redes/instagram.png" width="100" height="100" alt="">
+                    <a target="_blank" href="https://www.instagram.com/djfrank_1/?hl=es-la"><img class="" src="img/redes/instagram.png" width="100" height="100" alt=""></a>
                 </div>
                 <ul class="list-group list-group-flush text-center">
                     <li class="list-group-item">
