@@ -300,10 +300,10 @@
 <div class="container">
     	<div class="row">
         @foreach ($ofertas as $value)
-				<div class="col-md-3">
+				<div class="col-md-4">
 						<div class="panel panel-info">
 								<div class="panel-heading">
-										<h3 class="text-center">{{$value->name}}</h3>
+										<h5 class="text-center">{{$value->name}}</h5>
 								</div>
 								<div class="panel-body text-center">
 										<p class="lead" style="font-size:30px"><strong>{{$value->precio}}</strong></p>

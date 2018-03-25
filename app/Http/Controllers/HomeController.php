@@ -41,7 +41,7 @@ class HomeController extends Controller
     $numeroOferta = Oferta::orderBy('id', 'DESC')->count();
       $numeroServicios = Service::orderBy('id', 'DESC')->count();
 
-      return view('home' , compact( 'numeroCategorias', 'numeroDiseños', 'numeroUsuarios'
+      return view('Home' , compact( 'numeroCategorias', 'numeroDiseños', 'numeroUsuarios'
      , 'usuarios', 'numeroVideos', 'numeroMejoresDiseños', 'numeroOferta', 'numeroServicios' ));
     }
 

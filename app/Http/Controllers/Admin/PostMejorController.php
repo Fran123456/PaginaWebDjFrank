@@ -32,7 +32,7 @@ class PostMejorController extends Controller
   public function index()
   {
     $posts = PostMejor::orderBy('id', 'DESC')->paginate();
-    return view('admin.postMejor.index', compact('posts'));
+    return view('admin.PostMejor.index', compact('posts'));
   }
   /**
    * Show the form for creating a new resource.
