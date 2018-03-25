@@ -6,9 +6,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center">
-                    <h3>Échale un vistazo
-                        <span>a nuestros trabajos en video</span>
-                    </h3>  
+                    <h3>Échale un vistazo a nuestros trabajos en video
+                    </h3>
                 </div>
             </div>
             @foreach ($videos as $value)
