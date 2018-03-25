@@ -8,24 +8,22 @@
 .page-title .title-text .title-menu li a:hover {
     color: #B0D4F8;
 }
-.backA{
-  background-image: url(images/background/3.jpg);
-}
+
 .backC{
-  background-image: url(../images/background/3.jpg);
-  background-image: url(images/background/3.jpg);
+
+  background-image: url(images/background/fondocontacto.jpg);
 }
 </style>
 <!--Page Title-->
 <section class="page-title text-center backC" style="">
     <div class="container">
         <div class="title-text">
-            <h1>galeria</h1>
+            <h1>Mixes y remixes</h1>
             <ul class="title-menu clearfix">
                 <li>
                     <a href="{{ url('/') }}">Home &nbsp;/</a>
                 </li>
-                <li>galeria</li>
+                <li>Mixes y remixes</li>
             </ul>
         </div>
     </div>
@@ -37,11 +35,11 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center">
-                    <h3>Collected Shots
-                        <span>of Our Hospital</span>
+                    <h3>Mixes y remixes creados por DjFrank
+
                     </h3>
-                    <p>Leverage agile frameworks to provide a robust synopsis for high level overv-
-                        <br>iews. Iterative approaches to corporate strategy...</p>
+                    <p>Descarga toda nuestras ediciones de manera gratuita
+                      
                 </div>
             </div>
         @foreach( $posts as $post)
