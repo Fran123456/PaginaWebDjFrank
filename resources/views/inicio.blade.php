@@ -120,10 +120,10 @@
                                 <a href="#dormitory"  data-toggle="tab">ADOBE PHOTOSHOP</a>
                             </li>
                             <li role="presentation">
-                                <a href="#orthopedic" data-toggle="tab">ADOBE ILUSTRADOR</a>
+                                <a href="#orthopedic" data-toggle="tab">FL STUDIO</a>
                             </li>
                             <li role="presentation">
-                                <a href="#sonogram" data-toggle="tab">ADOBE PREMIERE</a>
+                                <a href="#sonogram" data-toggle="tab">SONY VEGAS</a>
                             </li>
                             <li role="presentation">
                                 <a href="#x-ray" data-toggle="tab">PROGRAMACIÓN WEB</a>
