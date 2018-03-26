@@ -74,7 +74,7 @@
                 <div class="col-12">
                     <!-- Slide Content Start-->
                     <div class="content style text-right">
-                        <h2 class="text-white">Diseño </h2>
+                        <h2 class="text-white">Diseño web</h2>
                         <p class="tag-text">HTML5, css, Javascript, php, etc.</p>
                         <a href="Materiales" class="btn btn-main btn-white">Ver</a>
                     </div>
