@@ -117,7 +117,7 @@
                     <div class="tabs">
                         <ul class="nav nav-tabs" role="tablist">
                             <li role="presentation" class="active">
-                                <a href="#dormitory"  data-toggle="tab">ADOBE PHOTOSHOP</a>
+                                <a href="#dormitory"  data-toggle="tab">ADOBE PHOTOSHOP prueba11</a>
                             </li>
                             <li role="presentation">
                                 <a href="#orthopedic" data-toggle="tab">FL STUDIO</a>
