@@ -117,16 +117,16 @@
                     <div class="tabs">
                         <ul class="nav nav-tabs" role="tablist">
                             <li role="presentation" class="active">
-                                <a href="#dormitory"  data-toggle="tab">ADOBE PHOTOSHOP prueba11</a>
+                                <a href="#dormitory"  data-toggle="tab">Ediciones de audio</a>
                             </li>
                             <li role="presentation">
-                                <a href="#orthopedic" data-toggle="tab">FL STUDIO</a>
+                                <a href="#orthopedic" data-toggle="tab">Ediciones de video</a>
                             </li>
                             <li role="presentation">
-                                <a href="#sonogram" data-toggle="tab">SONY VEGAS</a>
+                                <a href="#sonogram" data-toggle="tab">paginas web</a>
                             </li>
                             <li role="presentation">
-                                <a href="#x-ray" data-toggle="tab">PROGRAMACIÓN WEB</a>
+                                <a href="#x-ray" data-toggle="tab">Programación web</a>
                             </li>
                         </ul>
                     </div>
