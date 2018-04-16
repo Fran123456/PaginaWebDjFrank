@@ -10,6 +10,15 @@
   {
     padding-top: 10px;
   }
+  .btn-black{
+    color: #fff;
+    background-color: #2C2B2B;
+    border-color: #2C2B2B;
+}
+.btn-black:hover
+{
+  color: #fff;
+}
 </style>
 
 <!--Page Title-->
@@ -50,7 +59,7 @@
             <br>
           <div class="row">
               <div class="col-xs-12 col-md-12 form-group">
-              <button class="btn btn-primary pull-right" type="submit">Submit</button>
+              <button class="btn btn-black pull-right" type="submit">Submit</button>
               </div>
           </div>
       </form>
